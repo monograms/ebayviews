@@ -1,0 +1,14 @@
+[*] Instructions
++----------------+
+1. Open CMD in this current folder.
+2. Run the command: go build .
+3. Execute the executable file that has been built
+4. Navigate through the UI
+
+If you would like the use proxies, HTTP/HTTPS is supported.
+The format to give when prompted is:
+http://ipaddress.net:40000:username:password"
+or simply "http://ipaddress.net:40000" if no authentication is required.
+
+[*] Disclaimer:
+This tool was created by the BeMoney Team, and shall not be redistributed, modified, or sold without the consent of the BeMoney Team.
